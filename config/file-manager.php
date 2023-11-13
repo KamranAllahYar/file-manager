@@ -5,6 +5,7 @@ use Alexusmai\LaravelFileManager\Services\ACLService\ConfigACLRepository;
 
 return [
 
+    "slugifyNames" => true,
     /**
      * Set Config repository
      *
